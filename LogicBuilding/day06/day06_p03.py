@@ -13,3 +13,10 @@ for i in range(n):
         else:
             print(" ",end=" ")
     print()
+    
+'''PS D:\CodeMonk\LogicBuilding> python -u "d:\CodeMonk\LogicBuilding\day06\day06_p03.py"
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * '''
